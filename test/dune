@@ -1,0 +1,3 @@
+(test
+ (name fig)
+ (libraries ounit2))

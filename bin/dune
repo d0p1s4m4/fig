@@ -1,0 +1,4 @@
+(executable
+ (public_name fig)
+ (name main)
+ (libraries cmdliner fig))

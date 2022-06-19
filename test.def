@@ -1,0 +1,4 @@
+interface my_interface
+begin
+    proc f1([in] char *data)
+end

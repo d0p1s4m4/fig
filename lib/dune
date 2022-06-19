@@ -1,0 +1,8 @@
+(menhir
+ (modules parser))
+
+(ocamllex scanner)
+
+(library
+ (name fig)
+ (modules parser scanner ast fig))
